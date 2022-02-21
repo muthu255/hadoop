@@ -1,3 +1,4 @@
+The below query used to create the employee table.
 DROP TABLE EMPLOYEE;
 
 CREATE TABLE EMPLOYEE (

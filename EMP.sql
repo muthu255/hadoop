@@ -1,6 +1,11 @@
 The below query used to create the employee table.
 DROP TABLE EMPLOYEE;
 
+muthukrishnan;
+Muthu
+Krish
+Mk
+End
 CREATE TABLE EMPLOYEE (
   EMP_ID varchar2(255),
  EMP_NAME varchar2(255) default NULL,

@@ -1,4 +1,4 @@
-
+a=10
 gor the sample ana
 add
 add2

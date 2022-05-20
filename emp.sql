@@ -4,6 +4,3 @@ add
 add2
 add3
 d
-sss
-added from git
-ffd
